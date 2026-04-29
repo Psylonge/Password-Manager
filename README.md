@@ -13,6 +13,7 @@ Default Password: admin
 - **Account Information Management**: Organize and manage multiple account credentials effortlessly
 - **Changeable Master Password**: Original password set as "admin" to get in for the first time
 - **Import & Export Info Files**: Option to migrate or import account info to other devices
+- **Easy Password Copying**: Select an instance and rightclick the instance to copy the password
 
 ## Version History
 
